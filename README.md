@@ -17,3 +17,10 @@ steps :
   click on node and js.
 
   it will install node.js for js.
+
+# how to save the changes that had been made in codespace editor.
+click on source control
+click on + of the respective folders/files to save
+click on 3 dots.
+click on push
+now come back to repository and files are saved
