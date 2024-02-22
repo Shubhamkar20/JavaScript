@@ -25,4 +25,25 @@ click on source control
 click on + of the respective folders/files to save
 click on 3 dots.
 click on push
-now come back to repository and files are saved
+now come back to repository and files are saved 
+
+# Types of dataType
+1. string
+2. number
+3. boolean  --> returns true or false
+4. bigint
+5. null    ---> it is a object.
+6. undefined   --> value is not defined but not empty
+7. symbol
+8. object
+
+# DataTypes conversion confusion
+why string to nubmer conversion is confusing
+
+# Operations 
++, -, *, /, %
+
+# Unary operators
+Increment (++)
+Decrement (--)
+
