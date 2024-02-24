@@ -8,6 +8,9 @@ const fname = new String('Shubham')
 console.log(fname[0])
 */
 
+
+
+/*
 // Prototypes
 // 1. lenght
 console.log(str.length)
@@ -43,3 +46,22 @@ console.log(str.lastIndexOf('h'))
 // 9. replace('currentValue', 'newValue')
 console.log(strConcat)
 console.log(strConcat.replace('shubham', 'Shubhamkar'))
+
+
+
+let fname = ' shubham ';
+// console.log(fname.length)
+console.log(fname)
+
+// 10. trim()
+let fnameTrim = fname.trim();
+console.log(fnameTrim)
+// console.log(fnameTrim.length);
+
+// 11. trimStart()
+console.log(fname.trimStart())
+
+// 12. trimEnd()
+let fnameTrimEnd = fname.trimEnd()
+console.log(fnameTrimEnd.length)
+
