@@ -65,3 +65,4 @@ console.log(fname.trimStart())
 let fnameTrimEnd = fname.trimEnd()
 console.log(fnameTrimEnd.length)
 
+*/
