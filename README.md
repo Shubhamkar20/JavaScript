@@ -49,3 +49,7 @@ Decrement (--)
 
 
 # Comparison of dataTypes
+
+# Memory Stack and Heap
+
+# strings in js

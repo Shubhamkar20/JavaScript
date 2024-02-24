@@ -21,6 +21,10 @@
 --> 
 */
 
+
+
+
+/*
 const id = Symbol('12')
 const anotherId = Symbol('12')
 // is above variables are equal or not.
@@ -32,3 +36,4 @@ let bignum = 1323244342321324234
 // console.log(typeof bignum)
 console.log(null == 0)
 console.log(null <= 0)
+*/
