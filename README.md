@@ -47,3 +47,5 @@ why string to nubmer conversion is confusing
 Increment (++)
 Decrement (--)
 
+
+# Comparison of dataTypes
