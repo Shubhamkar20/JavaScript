@@ -53,3 +53,7 @@ Decrement (--)
 # Memory Stack and Heap
 
 # strings in js
+
+
+# Arrays 
+  Array is a collection data of different data types
