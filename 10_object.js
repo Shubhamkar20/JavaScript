@@ -30,4 +30,15 @@ student.age =21;
 console.log(student)
 */
 
+
+
+// creating a function 
+student.greetings = function(){
+    console.log(`good morning, ${this.name}`); // using this keyword, when we refere to same object.
+}
+student.greetings()
+
+
+student.department = 'IT';
+
 console.log(student)
