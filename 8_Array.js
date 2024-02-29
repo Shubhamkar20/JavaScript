@@ -19,7 +19,6 @@ console.log(Heros)
 // newArr.unshift(9)                  // it adds the element at first
 // newArr.shift()                    // it removes the element from first
 
-
 // console.log(newArr.indexOf(4)
 
 
