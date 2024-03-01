@@ -57,3 +57,15 @@ Decrement (--)
 
 # Arrays 
   Array is a collection data of different data types
+
+
+# Objects
+  Types to combine objects.
+    1. using Object.assign()
+    2. using spread operator.
+
+  Methods : 
+  object.keys(objname)
+  object.values(objname)
+  object.entries(objname)  (it will return an array)
+  object.hasOwnProperty(key)  (it checks whether the key is there or not)

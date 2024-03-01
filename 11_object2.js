@@ -106,4 +106,3 @@ console.log(obj.fname)
 // here we have destructure the obj fname instead writing obj.fname we can write fname.
 const {fname} = obj; 
 console.log(fname)
-
